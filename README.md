@@ -1,6 +1,7 @@
 This allows you to separate your numbers with commas for easy reading and better legibility
 
-# Use
+# Use Case
+---
 ```python
 import number_formatter
 
