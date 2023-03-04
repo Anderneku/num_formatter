@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: number-formatter
+Version: 0.1
+Summary: Add comma separation to your larger numbers!
+Home-page: UNKNOWN
+Author: SiXFeet
+Author-email: chukunekunwanwene@gmail.com
+License: UNKNOWN
+Keywords: number formatter
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+This allows you to separate your numbers with commas for easy reading and better legibility
+
+# Use
+```python
+import number_formatter
+
+number = 100000
+
+print(number_formatter.num_format(number)) #Prints out '100,000'
+

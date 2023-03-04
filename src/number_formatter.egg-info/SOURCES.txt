@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/number_formatter.py
+src/number_formatter.egg-info/PKG-INFO
+src/number_formatter.egg-info/SOURCES.txt
+src/number_formatter.egg-info/dependency_links.txt
+src/number_formatter.egg-info/top_level.txt
